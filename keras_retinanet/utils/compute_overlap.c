@@ -4,11 +4,11 @@
 {
     "distutils": {
         "depends": [
-            "/Users/wang/exercises/keras-retinanet/venv/lib/python2.7/site-packages/numpy/core/include/numpy/arrayobject.h", 
-            "/Users/wang/exercises/keras-retinanet/venv/lib/python2.7/site-packages/numpy/core/include/numpy/ufuncobject.h"
+            "/Users/wang/workspace/retinanet-detection/venv/lib/python2.7/site-packages/numpy/core/include/numpy/arrayobject.h", 
+            "/Users/wang/workspace/retinanet-detection/venv/lib/python2.7/site-packages/numpy/core/include/numpy/ufuncobject.h"
         ], 
         "include_dirs": [
-            "/Users/wang/exercises/keras-retinanet/venv/lib/python2.7/site-packages/numpy/core/include"
+            "/Users/wang/workspace/retinanet-detection/venv/lib/python2.7/site-packages/numpy/core/include"
         ], 
         "name": "keras_retinanet.utils.compute_overlap", 
         "sources": [
