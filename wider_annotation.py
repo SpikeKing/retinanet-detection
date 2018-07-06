@@ -131,4 +131,4 @@ def write_line(file_name, line):
 
 if __name__ == '__main__':
     generate_train_file(val_bbx_file, val_data_folder, out_file)
-    # generate_train_file(train_bbx_file, train_data_folder, out_file)
+    generate_train_file(train_bbx_file, train_data_folder, out_file)
