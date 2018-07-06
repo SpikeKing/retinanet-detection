@@ -16,7 +16,7 @@ limitations under the License.
 
 import numpy as np
 
-from keras_retinanet.utils.compute_overlap import compute_overlap
+from ..utils.compute_overlap import compute_overlap
 
 
 def anchor_targets_bbox(
